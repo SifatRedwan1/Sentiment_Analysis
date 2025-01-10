@@ -1,2 +1,2 @@
-# Sentiment_Analysis
-A comparative study of Machine Learning and Neural models for sentiment analysis
+# Sentiment_Analysis of a low-resource language Bangla
+This project focuses on doing sentiment analysis of public comments collected from social media, news articles.
